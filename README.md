@@ -1,5 +1,7 @@
 # Typescript를 사용한 Next.js 공홈 연습 BlogApp 만들어보기
 
+## [데모](https://next-js-tutorial-weld-theta.vercel.app/)
+
 [참고사이트 Next.js 공홈](https://nextjs.org/learn/basics/data-fetching/blog-data)
 
 ### 📌 개발 언어
@@ -113,3 +115,5 @@
     > (2. 가저온 경로를 이용하여 포스트 데이터 가져오기)
     > ![getPostData](./public/ReadmeImage/getPostData.png)
     > ※ params로 받은 경로 목록의 id를 활용하여 해당 id와 일치하는 파일을 찾아서 HTML 파일로 변환작업(remark, remark-html사용) 이후 객체로 데이터를 담아서 return / retrun한 값을 받아서 postData로 최종반환 이후 데이터바인딩 진행
+
+vercel에서 배포진행
